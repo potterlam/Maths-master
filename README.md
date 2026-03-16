@@ -1,7 +1,7 @@
 # Maths Master - Jedi Calculation Quest ⚔️🌟
 
 A Star Wars–themed math runner game where you play as a Jedi running through space, answering calculation questions to upgrade your equipment and defeat evil bosses!
-https://potterlam.github.io/Math-master/
+https://potterlam.github.io/Maths-master/
 
 ## 🎮 How to Play
 
